@@ -1,0 +1,6 @@
+{
+  "name": "XOẢNG! 3D — Phòng Xả Stress Ném Chai Thuỷ Tinh",
+  "description": "Trò chơi 3D ném chai thuỷ tinh vào tường với vật lý mảnh vỡ và âm thanh vỡ thực tế giúp giải toả căng thẳng.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
